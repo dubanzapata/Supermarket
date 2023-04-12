@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCKr0Si7XcDo3YUM6GY5J5a+Ss4jhr4h8UAq09ZzQhEI44CaCW83tVZYQGg9H2WxOQc5P9io9TddINFkxdZQuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duban.zapata\\Documents\\Project Visual Estudio\\Project Supermarket\\Supermarket\\Supermarket.Contrats\\Supermarket.Contrats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duban.zapata\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
